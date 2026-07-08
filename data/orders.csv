@@ -1,0 +1,428 @@
+order_id,vehicle_id,market,currency,channel,order_date,delivery_date,order_status,sale_amount,customer_email
+50239,1002,DE,EUR,web,2025-03-29,04-30-2025,completed,51745,buyer961@example.com
+50162,1013,GB,GBP,Subscription,01-30-2025,02-24-2025,Completed,27004,buyer1886@example.com
+50187,1007,FR,EUR,web,11/05/2025,,Completed,EUR 30.169,buyer6871@example.com
+50417,1016,GB,GBP,,2025-06-20,16 Aug 2025,completed,34845,buyer7279@example.com
+50344,1001,Germany,EUR,,03-20-2025,04-20-2025,Completed,EUR 29.286,buyer8170@example.com
+50224,1009,FR,EUR,,05-14-2025,2025-05-23,Cancelled,49625,buyer7893@example.com
+50342,1000,UK,GBP,Web,2025-04-27,12 May 2025,Completed,40059,buyer5947@example.com
+50197,1003,GB,GBP,Subscription,29/04/2025,,Cancelled,37440,buyer3067@example.com
+50177,1000,GB,GBP,Web,06-28-2025,25 Aug 2025,Cancelled,43435,buyer2247@example.com
+50293,1010,FR,EUR,,01-03-2025,,completed,31031,buyer5622@example.com
+50332,1017,FR,EUR,Dealer,01-06-2025,,Cancelled,-1,buyer8213@example.com
+50189,1014,fr,EUR,web,14 Mar 2025,2025-03-22,Cancelled,54996,buyer8084@example.com
+50345,1017,fr,EUR,,01-02-2025,2025-01-18,Delivered,-1,buyer3402@example.com
+50204,1004,UK,GBP,web,2025-07-07,08-10-2025,completed,20734,buyer4826@example.com
+50042,1009,FR,EUR,Subscription,2025-02-02,2025-02-11,Completed,50034,buyer1214@example.com
+50000,1010,fr,EUR,Subscription,04-03-2025,08/04/2025,completed,33426,buyer3433@example.com
+50300,1004,FR,EUR,Web,2025-03-02,2025-04-18,Pending,24380.00,buyer1364@example.com
+50264,1000,NL,EUR,Dealer,23/05/2025,2025-05-13,Pending,48857.00,buyer8398@example.com
+50215,1013,UK,GBP,Web,2025-06-10,2025-07-03,Delivered,26072,buyer6875@example.com
+50418,1013,fr,EUR,Dealer,24 Apr 2025,23 Jun 2025,Delivered,33236,buyer1084@example.com
+50201,1007,NL,EUR,Web,04-10-2025,06/06/2025,Delivered,27574,buyer9226@example.com
+50158,1006,NL,EUR,Subscription,20 May 2025,24 May 2025,completed,43908,buyer3966@example.com
+50081,1010,UK,GBP,Web,08 Jun 2025,2025-07-04,Cancelled,"£27,345",buyer3631@example.com
+50288,1008,FR,EUR,Web,24 Apr 2025,15/06/2025,Completed,57191,buyer6270@example.com
+50219,1010,DE,EUR,Web,2025-07-06,21 Jul 2025,completed,31034,buyer8304@example.com
+50075,1011,GB,GBP,Dealer,2025-07-15,2025-08-14,completed,26162,buyer5063@example.com
+50394,1001,UK,GBP,,01-26-2025,22/02/2025,Pending,23046.00,buyer7799@example.com
+50406,1001,GB,GBP,Dealer,09/04/2025,05-05-2025,Delivered,23565.00,buyer7840@example.com
+50324,1001,DE,EUR,Web,15 May 2025,,Pending,EUR 28.957,buyer9425@example.com
+50176,1005,GB,GBP,Web,12/04/2025,02/06/2025,Delivered,"£24,390",buyer7292@example.com
+50011,1000,GB,GBP,Dealer,12 Jul 2025,15 Aug 2025,Cancelled,40750.00,buyer9106@example.com
+50290,1010,DE,EUR,web,25/02/2025,16/04/2025,Delivered,32259,buyer1748@example.com
+50268,1014,DE,EUR,Web,2025-07-18,2025-08-01,Completed,52260,buyer512@example.com
+50082,1010,fr,EUR,web,13/02/2025,,Completed,32830,buyer3233@example.com
+50413,1018,UK,GBP,,04-23-2025,2025-05-31,Completed,48308,buyer6629@example.com
+50362,1012,UK,GBP,Subscription,29/06/2025,08-26-2025,Cancelled,"£21,531",buyer9904@example.com
+50053,1008,fr,EUR,,2025-01-01,2025-02-10,Pending,58954,buyer5273@example.com
+50205,1004,UK,GBP,web,2025-07-06,,Cancelled,22243,buyer3620@example.com
+50170,1014,DE,EUR,,31 Mar 2025,2025-05-28,completed,57324,buyer3386@example.com
+50044,1016,Germany,EUR,web,26/04/2025,05 Jun 2025,Cancelled,40417,buyer2574@example.com
+50419,1018,fr,EUR,web,07/04/2025,,completed,54651,buyer4743@example.com
+50023,1010,DE,EUR,Subscription,19 Jun 2025,2025-07-11,completed,31451,buyer4931@example.com
+50122,1008,NL,EUR,Dealer,03-18-2025,04-09-2025,Completed,56808,buyer8900@example.com
+50298,1002,Germany,EUR,Web,2025-06-07,19/06/2025,completed,50469,buyer5137@example.com
+50328,1006,FR,EUR,Dealer,2025-04-06,2025-04-14,Cancelled,42794,buyer1824@example.com
+50233,1011,fr,EUR,,18/02/2025,13 Apr 2025,Completed,26977,buyer613@example.com
+50110,1018,NL,EUR,,02-09-2025,2025-04-10,completed,54126.00,buyer6826@example.com
+50020,1012,fr,EUR,Subscription,01-10-2025,06 Mar 2025,Cancelled,24845,buyer4574@example.com
+50018,1017,GB,GBP,web,05/04/2025,2025-04-16,Completed,21117,buyer9174@example.com
+50068,1006,NL,EUR,,02-25-2025,18/04/2025,completed,43063,buyer423@example.com
+50076,1010,DE,EUR,Subscription,02 Jan 2025,16 Feb 2025,Pending,30430,buyer6063@example.com
+50232,1009,UK,GBP,Dealer,27 Jan 2025,2025-02-09,completed,44160,buyer8032@example.com
+50089,1004,GB,GBP,web,2025-03-17,2025-05-08,Pending,22623.00,buyer2963@example.com
+50357,1003,GB,GBP,Web,2025-03-21,2025-05-01,Cancelled,34675,buyer3439@example.com
+50140,1008,UK,GBP,,2025-03-26,05-22-2025,Completed,44732,buyer9627@example.com
+50164,1012,GB,GBP,Web,2025-07-08,17 Aug 2025,Completed,21347,buyer8797@example.com
+50372,1011,GB,GBP,Dealer,10 Jan 2025,2025-01-20,Delivered,24560,buyer9996@example.com
+50350,1015,fr,EUR,web,2025-02-16,09/03/2025,Pending,EUR 46.290,buyer5469@example.com
+50202,1006,fr,EUR,,07/05/2025,2025-05-12,completed,39053.00,buyer2908@example.com
+50032,1005,GB,GBP,Web,08 Mar 2025,03-31-2025,Completed,25469,buyer854@example.com
+50379,1012,FR,EUR,Dealer,03-22-2025,2025-03-27,Cancelled,26746,buyer1611@example.com
+50353,1001,fr,EUR,Dealer,2025-05-14,2025-06-06,completed,28942,buyer511@example.com
+50035,1009,NL,EUR,,2025-06-23,10/08/2025,Delivered,46777,buyer5689@example.com
+50382,1010,GB,GBP,web,15 Jan 2025,12/03/2025,Delivered,29215,buyer3028@example.com
+50315,1017,UK,GBP,Web,06/06/2025,2025-06-29,Completed,20511.00,buyer1618@example.com
+50308,1002,NL,EUR,Subscription,01/05/2025,20 May 2025,Completed,EUR 51.696,buyer1540@example.com
+50260,1017,NL,EUR,Subscription,2025-01-02,14/02/2025,completed,26569,
+50229,1016,DE,EUR,,16 Apr 2025,,completed,EUR 43.422,buyer2955@example.com
+50416,1018,NL,EUR,Subscription,26/02/2025,2025-03-13,Pending,52272,buyer9914@example.com
+50283,1012,fr,EUR,,28 Mar 2025,2025-05-13,Completed,24213.00,buyer3634@example.com
+50173,1002,Germany,EUR,Web,12 May 2025,07-10-2025,Cancelled,49253,buyer8757@example.com
+50115,1009,NL,EUR,web,01-03-2025,03-03-2025,Delivered,51037,buyer6330@example.com
+50095,1001,UK,GBP,web,04-18-2025,2025-04-25,Pending,25714,
+50369,1012,FR,EUR,Dealer,23 Mar 2025,2025-04-22,completed,24382,buyer2057@example.com
+50343,1002,NL,EUR,,01/07/2025,2025-08-05,completed,52491,buyer2931@example.com
+50231,1012,Germany,EUR,Web,03/05/2025,04-29-2025,completed,-1,buyer5642@example.com
+50118,1010,FR,EUR,Web,18 Mar 2025,2025-04-22,Delivered,,buyer437@example.com
+50414,1015,fr,EUR,Dealer,2025-02-07,2025-02-19,completed,52624,buyer7244@example.com
+50087,1002,DE,EUR,Subscription,25/01/2025,2025-02-13,Delivered,51991,buyer1389@example.com
+50208,1018,FR,EUR,Subscription,14/07/2025,2025-07-21,Completed,53815,buyer1526@example.com
+50056,1002,fr,EUR,web,03-26-2025,04-22-2025,completed,50379,buyer7111@example.com
+50117,1016,GB,GBP,web,01-12-2025,,Delivered,36455,buyer6439@example.com
+50318,1017,Germany,EUR,Subscription,18 Feb 2025,29/03/2025,Completed,25544,buyer2956@example.com
+50261,1010,GB,GBP,Subscription,23 Jan 2025,,Pending,26403.00,buyer7095@example.com
+50368,1004,fr,EUR,Web,03-17-2025,,Completed,26690.00,buyer9670@example.com
+50015,1003,GB,GBP,,2025-05-18,2025-06-12,Completed,37230,buyer9087@example.com
+50238,1001,fr,EUR,web,03-16-2025,2025-04-15,Cancelled,27266.00,buyer4396@example.com
+50004,1010,GB,GBP,,04-09-2025,05-15-2025,Cancelled,29289.00,buyer7124@example.com
+50002,1007,fr,EUR,Subscription,09/01/2025,16/01/2025,Cancelled,30376,buyer9198@example.com
+50360,1001,GB,GBP,Subscription,2025-04-09,,Cancelled,24381,buyer3247@example.com
+50196,1011,FR,EUR,Subscription,11/06/2025,07-21-2025,Completed,EUR 30.392,buyer5433@example.com
+50249,1010,NL,EUR,Subscription,2025-04-09,26/05/2025,Delivered,31299,buyer8976@example.com
+50400,1006,FR,EUR,Subscription,02 Apr 2025,2025-04-13,completed,EUR 42.535,buyer3603@example.com
+50316,1001,NL,EUR,web,14 Jun 2025,2025-07-20,Completed,29571,buyer995@example.com
+50374,1018,FR,EUR,,03-26-2025,05-19-2025,Completed,EUR 53.773,buyer9473@example.com
+50062,1010,FR,EUR,Subscription,04-17-2025,05-24-2025,Cancelled,32394,buyer7674@example.com
+50143,1001,NL,EUR,web,26 Feb 2025,2025-02-17,Delivered,29106,buyer5531@example.com
+50123,1012,Germany,EUR,Subscription,30/03/2025,2025-04-20,completed,24638,buyer4443@example.com
+50136,1008,UK,GBP,Web,05 Jul 2025,2025-06-28,Delivered,48935.00,buyer798@example.com
+50228,1013,fr,EUR,web,2025-03-26,2025-04-27,Completed,32137,buyer6254@example.com
+50301,1003,DE,EUR,web,2025-06-08,06 Aug 2025,Completed,40439,buyer5329@example.com
+50160,1017,NL,EUR,Dealer,13 Jun 2025,07-01-2025,Completed,24232,
+50221,1016,Germany,EUR,Dealer,12/06/2025,06-30-2025,Cancelled,41421,buyer1481@example.com
+50250,1010,FR,EUR,web,2025-07-08,23/07/2025,Delivered,32792,buyer5282@example.com
+50287,1007,NL,EUR,Web,2025-02-19,02-22-2025,Cancelled,27570,buyer9420@example.com
+50319,1017,Germany,EUR,Subscription,10 May 2025,20 Jun 2025,Cancelled,26798,buyer9227@example.com
+50084,1015,Germany,EUR,Web,2025-06-11,06-17-2025,Delivered,49598,buyer6300@example.com
+50317,1011,NL,EUR,web,2025-07-10,2025-08-05,Completed,30036.00,buyer3785@example.com
+50212,1011,UK,GBP,Web,2025-04-25,,Cancelled,24424,buyer6783@example.com
+50188,1007,DE,EUR,web,2025-03-05,2025-03-25,Completed,EUR 29.077,buyer1130@example.com
+50323,1001,FR,EUR,web,2025-05-28,07-19-2025,Completed,28227,buyer6267@example.com
+50358,1010,UK,GBP,,2025-02-19,12 Apr 2025,Completed,28198,buyer5740@example.com
+50038,1010,GB,GBP,Web,2025-05-07,05-23-2025,completed,28659,buyer6659@example.com
+50019,1013,NL,EUR,Dealer,11 Jul 2025,07/09/2025,completed,,buyer1772@example.com
+50254,1012,Germany,EUR,Subscription,17/04/2025,2025-05-10,Cancelled,23855,buyer8956@example.com
+50120,1001,NL,EUR,,29 Jun 2025,,Completed,26977,buyer8499@example.com
+50077,1009,FR,EUR,Subscription,25 Mar 2025,2025-04-02,Delivered,47297.00,buyer4476@example.com
+50326,1004,Germany,EUR,Subscription,05-24-2025,02/07/2025,Delivered,25553,buyer6777@example.com
+50270,1004,Germany,EUR,,09/05/2025,2025-06-13,Pending,25892,buyer9280@example.com
+50169,1017,NL,EUR,Subscription,2025-01-29,03-07-2025,completed,25489,buyer529@example.com
+50152,1015,UK,GBP,Web,2025-04-02,2025-04-16,Cancelled,"£43,248",buyer2528@example.com
+50331,1003,GB,GBP,Web,16/03/2025,02 Apr 2025,completed,35495,buyer7504@example.com
+50307,1000,UK,GBP,Dealer,2025-01-24,17 Feb 2025,completed,41297,buyer6430@example.com
+50106,1005,FR,EUR,Subscription,2025-07-01,08-23-2025,Cancelled,EUR 28.839,buyer6045@example.com
+50333,1008,fr,EUR,web,2025-01-16,2025-03-16,Pending,58554,buyer3727@example.com
+50171,1006,fr,EUR,,2025-01-16,2025-02-26,completed,39667,buyer6744@example.com
+50012,1015,UK,GBP,,18/02/2025,2025-03-30,Completed,39896.00,buyer1313@example.com
+50007,1002,fr,EUR,web,05-17-2025,2025-06-19,Pending,47360,buyer6119@example.com
+50402,1000,FR,EUR,Web,20 Apr 2025,13 May 2025,Completed,50069,buyer7712@example.com
+50242,1013,FR,EUR,web,2025-07-06,21 Aug 2025,Pending,-1,buyer2710@example.com
+50146,1001,NL,EUR,,06-13-2025,16 Jul 2025,Completed,,buyer7055@example.com
+50168,1015,Germany,EUR,web,01 Jul 2025,2025-07-09,Delivered,46482,buyer8116@example.com
+50387,1015,GB,GBP,Dealer,2025-05-26,06-19-2025,Pending,41795,buyer4751@example.com
+50396,1007,UK,GBP,web,01-31-2025,03-14-2025,Completed,25799,buyer2445@example.com
+50216,1003,Germany,EUR,Dealer,08 Feb 2025,2025-03-31,Cancelled,43809,buyer7956@example.com
+50192,1018,GB,GBP,Dealer,10 May 2025,2025-05-17,Cancelled,47698,buyer4456@example.com
+50037,1008,NL,EUR,web,18 May 2025,2025-07-12,Delivered,53621,buyer6210@example.com
+50388,1006,UK,GBP,Dealer,22 May 2025,,Completed,34913,buyer7176@example.com
+50130,1009,FR,EUR,Dealer,31 Jan 2025,2025-02-26,Delivered,47724,buyer8807@example.com
+50124,1017,FR,EUR,Subscription,03-11-2025,20/04/2025,Pending,24487,buyer2253@example.com
+50280,1007,fr,EUR,Web,22 Jan 2025,02-20-2025,completed,27623,buyer5176@example.com
+50225,1002,DE,EUR,,12 Mar 2025,03-31-2025,Cancelled,47512,buyer418@example.com
+50403,1016,GB,GBP,web,19/04/2025,2025-06-12,Cancelled,,buyer1487@example.com
+50304,1015,DE,EUR,web,03/01/2025,13/02/2025,Pending,51490,buyer3615@example.com
+50366,1012,DE,EUR,web,07 May 2025,23/05/2025,Delivered,,buyer9469@example.com
+50302,1015,Germany,EUR,,2025-05-19,2025-05-30,Cancelled,47438,buyer7892@example.com
+50127,1009,Germany,EUR,Dealer,14/06/2025,2025-06-25,Completed,49340,buyer4834@example.com
+50211,1006,UK,GBP,,13 Jun 2025,2025-08-09,completed,34558,buyer6250@example.com
+50309,1016,FR,EUR,Subscription,02-23-2025,03-17-2025,completed,39613,buyer854@example.com
+50203,1010,GB,GBP,Subscription,2025-01-06,2025-01-18,Completed,28836,buyer5286@example.com
+50103,1001,UK,GBP,Dealer,01-18-2025,13 Feb 2025,Pending,"£26,081",buyer9404@example.com
+50051,1010,fr,EUR,web,03 Mar 2025,2025-03-06,Cancelled,31871,buyer4480@example.com
+50086,1002,NL,EUR,Dealer,2025-06-15,16 Jul 2025,Completed,49707,buyer5483@example.com
+50050,1014,Germany,EUR,Subscription,14 Jan 2025,06 Mar 2025,Completed,56227,
+50222,1009,GB,GBP,web,04-09-2025,,Pending,44328,buyer146@example.com
+50276,1009,GB,GBP,web,2025-02-25,24 Apr 2025,Delivered,40509,buyer5615@example.com
+50234,1012,FR,EUR,Subscription,2025-03-07,2025-04-17,Delivered,25890.00,buyer2509@example.com
+50167,1005,NL,EUR,Subscription,2025-02-12,07 Mar 2025,Delivered,29259,buyer6704@example.com
+50151,1002,NL,EUR,Dealer,2025-07-10,09/08/2025,Cancelled,51764,buyer7382@example.com
+50383,1003,FR,EUR,Dealer,02-17-2025,24 Feb 2025,completed,43797,buyer4544@example.com
+50166,1010,NL,EUR,,22 Jan 2025,02-09-2025,Pending,30632,buyer8805@example.com
+50036,1017,Germany,EUR,Subscription,19/06/2025,2025-07-13,Pending,26518,buyer8549@example.com
+50274,1004,UK,GBP,,10/02/2025,20/02/2025,Pending,21421,
+50329,1009,Germany,EUR,Subscription,2025-05-01,,completed,47647,buyer302@example.com
+50200,1000,fr,EUR,web,07-19-2025,2025-08-21,Delivered,48617,buyer917@example.com
+50253,1011,fr,EUR,web,2025-04-26,,Cancelled,30205,buyer770@example.com
+50101,1017,DE,EUR,Subscription,03-24-2025,,Pending,24772,buyer5777@example.com
+50026,1006,FR,EUR,,28 Jun 2025,2025-07-10,Completed,43632,buyer1989@example.com
+50399,1007,FR,EUR,Subscription,16/04/2025,2025-05-03,Pending,28695,buyer7500@example.com
+50337,1010,UK,GBP,Subscription,01 Mar 2025,17 Apr 2025,Pending,26243,buyer3167@example.com
+50045,1007,UK,GBP,Dealer,22 May 2025,,Completed,23004,buyer4335@example.com
+50275,1001,UK,GBP,,27 May 2025,2025-07-01,Delivered,"£25,890",buyer306@example.com
+50386,1001,FR,EUR,Web,2025-04-10,09 Jun 2025,completed,29089,
+50346,1001,UK,GBP,,02-07-2025,,Cancelled,"£24,129",buyer804@example.com
+50347,1003,Germany,EUR,Web,2025-02-15,2025-04-01,Cancelled,41878,buyer6209@example.com
+50109,1005,DE,EUR,Dealer,2025-07-01,08-06-2025,Delivered,30121,buyer2763@example.com
+50258,1006,fr,EUR,web,2025-06-08,2025-08-02,Cancelled,39373,buyer1858@example.com
+50207,1002,DE,EUR,Dealer,2025-03-07,13 Mar 2025,Pending,49146,buyer7856@example.com
+50395,1004,UK,GBP,Web,02-06-2025,07/03/2025,Cancelled,22918.00,buyer9138@example.com
+50284,1011,GB,GBP,,2025-06-05,,completed,24244,buyer7193@example.com
+50376,1000,FR,EUR,web,2025-01-29,20/03/2025,Completed,50590,buyer1383@example.com
+50422,99999,FR,EUR,Dealer,2025-05-11,06-17-2025,Completed,EUR 30.475,buyer5664@example.com
+50322,1018,UK,GBP,Subscription,2025-03-01,09 Apr 2025,Completed,47706.00,buyer4922@example.com
+50412,1001,UK,GBP,web,01/04/2025,13/05/2025,completed,25308,buyer5188@example.com
+50291,1003,GB,GBP,,06-23-2025,2025-06-26,Pending,37598,buyer8375@example.com
+50311,1007,UK,GBP,web,2025-05-08,,Completed,25006,buyer3813@example.com
+50098,1005,fr,EUR,Dealer,19/07/2025,21/08/2025,Completed,EUR 29.990,buyer687@example.com
+50371,1016,Germany,EUR,,05-22-2025,08/06/2025,Pending,EUR 41.071,buyer9443@example.com
+50198,1008,DE,EUR,Dealer,25 Apr 2025,2025-04-15,completed,53456,buyer8615@example.com
+50359,1017,DE,EUR,Subscription,2025-03-11,2025-04-01,completed,EUR 24.494,
+50279,1016,Germany,EUR,,2025-04-05,05/05/2025,Pending,43883,buyer7818@example.com
+50010,1003,GB,GBP,Web,14 Apr 2025,23/04/2025,Delivered,34012,buyer8857@example.com
+50361,1017,GB,GBP,web,13/07/2025,21 Jul 2025,Delivered,20514,buyer5955@example.com
+50349,1002,Germany,EUR,web,2025-07-05,08-22-2025,Delivered,49073,buyer8155@example.com
+50407,1018,fr,EUR,Dealer,29 Jun 2025,07-16-2025,Pending,54237,buyer2011@example.com
+50255,1010,UK,GBP,Web,18 Jul 2025,18/08/2025,Completed,"£29,335",buyer9120@example.com
+50092,1003,FR,EUR,web,13 May 2025,03/07/2025,Cancelled,40239,buyer6798@example.com
+50409,1005,DE,EUR,Web,01-20-2025,,Pending,27954,buyer8871@example.com
+50126,1005,Germany,EUR,Dealer,2025-02-15,08 Feb 2025,Delivered,27613,buyer5490@example.com
+50393,1017,UK,GBP,Dealer,2025-03-24,2025-05-14,completed,21931,buyer9536@example.com
+50133,1009,FR,EUR,Web,2025-01-06,25/02/2025,Pending,EUR 50.062,
+50206,1018,GB,GBP,Dealer,08 May 2025,05-26-2025,Completed,50285,buyer4089@example.com
+50119,1010,Germany,EUR,,09 Mar 2025,2025-04-30,completed,32593,buyer3969@example.com
+50031,1010,FR,EUR,Web,2025-06-23,18 Aug 2025,Pending,34049,buyer7565@example.com
+50080,1017,fr,EUR,Subscription,21 Jun 2025,2025-08-18,Cancelled,25135.00,buyer342@example.com
+50194,1002,UK,GBP,Subscription,2025-06-25,2025-08-05,Completed,40757,buyer4263@example.com
+50028,1014,DE,EUR,Dealer,07-12-2025,2025-09-02,Delivered,55199,buyer2472@example.com
+50104,1004,NL,EUR,Dealer,04 Apr 2025,2025-04-22,completed,23762,buyer4679@example.com
+50313,1006,NL,EUR,Subscription,02-17-2025,03-21-2025,Cancelled,43495,buyer7440@example.com
+50131,1006,fr,EUR,,2025-03-05,2025-04-27,completed,41622,buyer2456@example.com
+50227,1017,UK,GBP,Dealer,2025-03-17,,completed,20601,buyer5032@example.com
+50108,1014,Germany,EUR,Web,2025-06-24,2025-08-19,Delivered,56332,buyer2698@example.com
+50097,1001,FR,EUR,Dealer,10/04/2025,04-14-2025,Completed,29902,buyer5547@example.com
+50090,1010,fr,EUR,web,02-12-2025,06/02/2025,Pending,34262,buyer3179@example.com
+50312,1010,NL,EUR,Subscription,2025-06-15,16/07/2025,Cancelled,30225,buyer8030@example.com
+50259,1012,DE,EUR,Dealer,2025-05-19,05-10-2025,Completed,25396,buyer2743@example.com
+50363,1018,UK,GBP,,11 May 2025,,Pending,49256,buyer3909@example.com
+50172,1001,DE,EUR,,06-17-2025,05/07/2025,Pending,29609,buyer1238@example.com
+50112,1006,DE,EUR,Dealer,05/06/2025,06-28-2025,Pending,EUR 44.085,buyer7367@example.com
+50047,1012,DE,EUR,,2025-05-09,2025-06-19,Completed,,buyer4416@example.com
+50150,1010,GB,GBP,,02-23-2025,12 Apr 2025,Pending,29136,buyer2293@example.com
+50256,1008,UK,GBP,,02-11-2025,07 Mar 2025,Pending,48583,buyer9014@example.com
+50348,1002,fr,EUR,web,2025-04-20,23/05/2025,Completed,47078,buyer8667@example.com
+50121,1006,NL,EUR,Dealer,2025-03-25,04-21-2025,Pending,43983,buyer4039@example.com
+50181,1015,Germany,EUR,Subscription,2025-01-29,2025-02-05,Pending,EUR 52.092,buyer2831@example.com
+50285,1000,UK,GBP,Dealer,18/06/2025,2025-07-03,Completed,43937,buyer1423@example.com
+50281,1013,DE,EUR,web,28 Jan 2025,02-16-2025,Delivered,33774,buyer7905@example.com
+50054,1006,FR,EUR,web,03 Mar 2025,24 Apr 2025,Completed,38984,buyer9670@example.com
+50244,1014,DE,EUR,,2025-01-31,2025-02-04,Cancelled,EUR 54.607,buyer9214@example.com
+50303,1017,UK,GBP,Dealer,01-23-2025,11/02/2025,Pending,"£21,103",buyer8060@example.com
+50415,1010,FR,EUR,Dealer,2025-01-29,2025-02-09,Cancelled,EUR 30.631,buyer3198@example.com
+50137,1007,FR,EUR,,2025-01-12,2025-01-28,Cancelled,27437,buyer2348@example.com
+50193,1007,GB,GBP,web,21 Feb 2025,02/03/2025,Cancelled,23339,buyer1965@example.com
+50230,1002,Germany,EUR,Subscription,2025-03-27,2025-05-09,completed,46311,buyer7036@example.com
+50043,1018,FR,EUR,Subscription,2025-06-25,,Delivered,52751,buyer3698@example.com
+50292,1008,Germany,EUR,web,26 Feb 2025,03 Apr 2025,Completed,55154,buyer7538@example.com
+50266,1008,GB,GBP,Dealer,20 Feb 2025,03-16-2025,Pending,44955,buyer5009@example.com
+50183,1012,GB,GBP,Subscription,2025-06-13,2025-07-03,Completed,21122,buyer7168@example.com
+50277,1014,NL,EUR,,01 Jun 2025,,completed,,buyer2907@example.com
+50135,1003,UK,GBP,Subscription,18/05/2025,2025-06-04,completed,36654,buyer2542@example.com
+50003,1017,DE,EUR,Web,11/07/2025,08-08-2025,completed,24409,buyer6917@example.com
+50195,1005,GB,GBP,Web,14/04/2025,22/05/2025,completed,"£23,303",buyer6564@example.com
+50356,1006,DE,EUR,web,04/05/2025,06-25-2025,Completed,39530,buyer8559@example.com
+50209,1010,NL,EUR,Subscription,2025-06-07,07/07/2025,Delivered,32720.00,buyer4613@example.com
+50025,1002,fr,EUR,Web,12 Jul 2025,04/09/2025,Pending,EUR 47.243,buyer9432@example.com
+50017,1002,FR,EUR,Web,2025-04-19,13/04/2025,Completed,50446,buyer2443@example.com
+50145,1002,fr,EUR,web,2025-06-21,,completed,EUR 46.322,buyer6115@example.com
+50367,1014,UK,GBP,,2025-02-22,04-02-2025,Delivered,49886,buyer6623@example.com
+50380,1008,FR,EUR,web,05-30-2025,19/07/2025,Delivered,57022,
+50156,1015,NL,EUR,Dealer,07 Jun 2025,2025-06-29,Delivered,52485,buyer5254@example.com
+50186,1016,GB,GBP,Dealer,2025-03-09,16 Mar 2025,Delivered,35245,buyer1890@example.com
+50199,1007,FR,EUR,Dealer,20/05/2025,07-12-2025,Completed,28728,buyer3589@example.com
+50128,1018,FR,EUR,web,13 Jul 2025,25 Aug 2025,Cancelled,57699.00,buyer112@example.com
+50218,1015,DE,EUR,Web,06/04/2025,,completed,51625,buyer7260@example.com
+50041,1008,FR,EUR,web,05-31-2025,2025-06-21,Completed,57740,buyer9067@example.com
+50335,1004,Germany,EUR,web,2025-07-17,07-30-2025,Cancelled,23902,buyer6784@example.com
+50305,1008,GB,GBP,Subscription,19/04/2025,2025-06-12,Completed,49194,buyer4745@example.com
+50142,1017,DE,EUR,Subscription,07-18-2025,08-31-2025,completed,24707,buyer6782@example.com
+50370,1004,GB,GBP,Subscription,2025-01-19,19 Mar 2025,Pending,22117,buyer7445@example.com
+50046,1018,FR,EUR,,02-20-2025,05/04/2025,Pending,58293.00,buyer4983@example.com
+50336,1013,DE,EUR,,04-24-2025,06-06-2025,Delivered,,buyer3784@example.com
+50179,1006,GB,GBP,web,2025-01-26,16 Mar 2025,Delivered,34760,buyer9955@example.com
+50094,1004,fr,EUR,Subscription,2025-06-30,2025-08-29,Cancelled,23739,buyer1997@example.com
+50102,1010,Germany,EUR,Web,12/03/2025,2025-03-18,Delivered,32992,buyer7180@example.com
+50105,1015,UK,GBP,Web,2025-02-01,15 Feb 2025,Delivered,45129,buyer4915@example.com
+50408,1015,FR,EUR,Web,17/05/2025,07 Jun 2025,Pending,50341,buyer6401@example.com
+50338,1007,GB,GBP,Subscription,2025-04-15,10 Apr 2025,Pending,23719,buyer7497@example.com
+50005,1005,Germany,EUR,,2025-01-01,2025-01-20,completed,29801,buyer2647@example.com
+50341,1010,GB,GBP,,26/06/2025,21 Aug 2025,Pending,26085,buyer7388@example.com
+50033,1011,UK,GBP,Web,2025-06-16,,completed,"£26,106",buyer7759@example.com
+50022,1010,Germany,EUR,,05/06/2025,2025-08-04,Cancelled,EUR 30.943,buyer5410@example.com
+50129,1008,Germany,EUR,Web,02 Mar 2025,03-26-2025,Cancelled,55914,buyer8234@example.com
+50295,1013,fr,EUR,,2025-04-08,28/05/2025,Cancelled,EUR 32.148,buyer4916@example.com
+50240,1005,GB,GBP,web,17 Apr 2025,26 May 2025,Pending,,buyer6739@example.com
+50030,1011,DE,EUR,Dealer,12 Jul 2025,06 Sep 2025,Pending,28951,
+50005,1005,Germany,EUR,,2025-01-01,2025-01-20,completed,29801,buyer2647@example.com
+50016,1009,FR,EUR,Dealer,2025-01-27,2025-02-06,Pending,51135,buyer833@example.com
+50055,1010,fr,EUR,Web,26 Jan 2025,03 Mar 2025,Cancelled,EUR 30.199,buyer6513@example.com
+50100,1012,FR,EUR,Subscription,2025-04-23,07 May 2025,Pending,25991,buyer2957@example.com
+50021,1011,FR,EUR,Dealer,2025-05-11,06-17-2025,Completed,EUR 30.475,buyer5664@example.com
+50220,1012,UK,GBP,Dealer,19/07/2025,23/07/2025,Cancelled,20787,buyer7606@example.com
+50247,1003,fr,EUR,Subscription,11 Apr 2025,04-26-2025,Delivered,39335,buyer2206@example.com
+50009,1016,UK,GBP,Subscription,03-13-2025,2025-03-24,Pending,35812,buyer888@example.com
+50310,1006,GB,GBP,Subscription,2025-03-02,03-15-2025,completed,35851,buyer1467@example.com
+50057,1003,fr,EUR,Dealer,12 Jun 2025,06-25-2025,completed,EUR 43.691,buyer6752@example.com
+50217,1018,NL,EUR,Web,02 May 2025,,Cancelled,EUR 53.672,buyer808@example.com
+50040,1016,DE,EUR,,19/04/2025,14 May 2025,completed,40228,buyer7934@example.com
+50066,1013,FR,EUR,Dealer,2025-01-26,2025-02-15,Cancelled,33073,buyer4521@example.com
+50107,1014,fr,EUR,,2025-05-22,05-29-2025,completed,54568,buyer1216@example.com
+50064,1018,Germany,EUR,Web,13 Jun 2025,30 Jun 2025,Cancelled,51844,buyer1912@example.com
+50157,1010,FR,EUR,Subscription,02-21-2025,03-21-2025,Pending,31375,buyer9239@example.com
+50116,1016,Germany,EUR,Dealer,15/07/2025,2025-08-26,completed,39395,buyer6577@example.com
+50072,1017,FR,EUR,Dealer,02-25-2025,03-26-2025,completed,26443,buyer7771@example.com
+50065,1004,GB,GBP,,10 Jan 2025,19/01/2025,Delivered,"£22,772",buyer2532@example.com
+50320,1017,UK,GBP,,2025-04-07,04-26-2025,Delivered,22985,buyer4946@example.com
+50060,1011,NL,EUR,,17 Mar 2025,12 May 2025,Cancelled,27948,buyer3771@example.com
+50398,1005,fr,EUR,Dealer,08/01/2025,09/03/2025,Completed,29647,buyer1607@example.com
+50424,1012,FR,EUR,Subscription,2027-03-01,07 May 2025,Pending,25991,buyer2957@example.com
+50088,1009,NL,EUR,web,04-07-2025,2025-04-18,Pending,,buyer2254@example.com
+50175,1000,GB,GBP,Dealer,2025-02-10,03/02/2025,Cancelled,45121,buyer6093@example.com
+50267,1018,UK,GBP,Dealer,25/05/2025,24/06/2025,Cancelled,44186,buyer7584@example.com
+50226,1015,DE,EUR,,08 Mar 2025,2025-04-27,Cancelled,50093,buyer2786@example.com
+50071,1002,GB,GBP,Subscription,2025-03-24,2025-04-13,Delivered,43094,buyer1875@example.com
+50339,1007,Germany,EUR,Web,2025-04-14,08 Jun 2025,Completed,29643,buyer695@example.com
+50159,1008,FR,EUR,Subscription,2025-02-09,16 Feb 2025,Completed,58894,buyer5891@example.com
+50178,1012,fr,EUR,web,12/07/2025,27/08/2025,Pending,23904,buyer7249@example.com
+50245,1006,FR,EUR,Dealer,21 Jun 2025,2025-08-15,Completed,43216,buyer3634@example.com
+50377,1004,NL,EUR,Dealer,2025-02-09,10 Mar 2025,Cancelled,24471,buyer1901@example.com
+50067,1006,GB,GBP,web,2025-04-27,,completed,34108,buyer9081@example.com
+50059,1009,FR,EUR,Subscription,20 May 2025,2025-06-14,Completed,48236,buyer9371@example.com
+50401,1009,NL,EUR,web,2025-02-10,24/03/2025,Pending,50060,buyer4574@example.com
+50235,1006,FR,EUR,Web,2025-06-25,2025-08-09,Delivered,42372,buyer1868@example.com
+50404,1000,Germany,EUR,Subscription,21/06/2025,2025-08-17,Cancelled,EUR 51.167,buyer23@example.com
+50058,1018,FR,EUR,Dealer,16 Feb 2025,15 Apr 2025,Cancelled,56186,buyer7623@example.com
+50282,1005,DE,EUR,web,24 May 2025,2025-06-15,completed,28214,buyer8329@example.com
+50272,1001,GB,GBP,Dealer,2025-06-16,07-22-2025,Completed,25708,buyer6166@example.com
+50269,1018,NL,EUR,Subscription,14/04/2025,2025-04-19,Delivered,53564,buyer4768@example.com
+50314,1000,fr,EUR,,13 Jun 2025,2025-08-11,completed,50333,buyer8152@example.com
+50020,1012,fr,EUR,Subscription,01-10-2025,06 Mar 2025,Cancelled,0,buyer4574@example.com
+50096,1011,UK,GBP,,2025-05-27,2025-06-04,Completed,"£26,162",buyer7703@example.com
+50113,1007,UK,GBP,Dealer,2025-01-25,,Cancelled,26067,buyer2611@example.com
+50257,1011,GB,GBP,web,20/07/2025,2025-08-03,Cancelled,23217,buyer4810@example.com
+50079,1000,UK,GBP,web,19 Mar 2025,05-09-2025,Delivered,"£41,173",buyer8197@example.com
+50111,1010,FR,EUR,Web,08/01/2025,01-29-2025,Pending,32190,buyer7610@example.com
+50052,1013,fr,EUR,Dealer,04 May 2025,11/06/2025,Cancelled,31767,buyer8319@example.com
+50364,1010,UK,GBP,Dealer,2025-05-21,05-28-2025,completed,26513,buyer1277@example.com
+50174,1012,UK,GBP,Web,2025-04-20,05-13-2025,Completed,21201,buyer7530@example.com
+50210,1009,UK,GBP,Dealer,2025-01-25,,Pending,42751,buyer422@example.com
+50248,1015,GB,GBP,web,2025-05-16,2025-06-15,Pending,42255,buyer9932@example.com
+50190,1006,FR,EUR,Dealer,2025-05-20,23 May 2025,Pending,-1,buyer5039@example.com
+50144,1008,fr,EUR,,2025-05-06,09 Jun 2025,Delivered,52890,
+50265,1004,UK,GBP,,17 Feb 2025,2025-03-04,Delivered,20754,buyer1104@example.com
+50070,1018,GB,GBP,Subscription,2025-04-26,2025-05-01,Pending,46037.00,buyer7268@example.com
+50006,1017,fr,EUR,web,2025-05-16,2025-06-19,Completed,24050,buyer7963@example.com
+50073,1002,GB,GBP,,2025-01-22,,Cancelled,40095,buyer6731@example.com
+50180,1009,fr,EUR,Subscription,06-26-2025,,Completed,51819,buyer3922@example.com
+50296,1008,NL,EUR,Web,26 May 2025,,Cancelled,52384,buyer5904@example.com
+50273,1007,NL,EUR,web,2025-04-14,18 May 2025,Delivered,EUR 30.277,buyer3466@example.com
+50049,1003,fr,EUR,Subscription,2025-02-11,04 Mar 2025,Completed,43199,buyer8890@example.com
+50390,1001,DE,EUR,,04/07/2025,,Delivered,27354,buyer1181@example.com
+50138,1016,UK,GBP,Subscription,2025-04-16,26/05/2025,Cancelled,36045,buyer6689@example.com
+50423,99999,fr,EUR,Subscription,01-10-2025,06 Mar 2025,Cancelled,0,buyer4574@example.com
+50161,1008,UK,GBP,web,05-11-2025,2025-06-27,Completed,45534,buyer4841@example.com
+50165,1005,DE,EUR,Dealer,03-25-2025,09 May 2025,Pending,28911,buyer4874@example.com
+50278,1015,NL,EUR,,2025-06-03,,Completed,51406,buyer7070@example.com
+50085,1014,NL,EUR,Web,22 May 2025,27 May 2025,Completed,58298,buyer5627@example.com
+50392,1002,fr,EUR,Subscription,01-28-2025,,Completed,50171.00,buyer9437@example.com
+50048,1018,GB,GBP,Web,15 Jul 2025,28 Aug 2025,Cancelled,49871,buyer5261@example.com
+50093,1001,Germany,EUR,web,09/05/2025,05-17-2025,Completed,27758.00,buyer7741@example.com
+50384,1001,Germany,EUR,Subscription,10/04/2025,06-04-2025,Pending,EUR 27.581,buyer8858@example.com
+50099,1010,DE,EUR,Dealer,05-12-2025,06-14-2025,Completed,30290,buyer7160@example.com
+50263,1010,GB,GBP,,03-14-2025,2025-04-11,completed,27480,buyer6114@example.com
+50039,1015,NL,EUR,web,07-14-2025,31 Aug 2025,Delivered,EUR 49.211,buyer9069@example.com
+50411,1015,NL,EUR,Dealer,20/06/2025,21 Jul 2025,Pending,EUR 48.268,buyer4721@example.com
+50271,1018,FR,EUR,web,2025-02-07,2025-03-04,Cancelled,53259.00,buyer7449@example.com
+50149,1018,fr,EUR,Dealer,2025-01-25,11/02/2025,Delivered,58241,buyer2939@example.com
+50148,1009,FR,EUR,web,2025-01-21,2025-03-13,Pending,-1,buyer5428@example.com
+50024,1012,NL,EUR,web,2025-01-01,2025-02-23,Cancelled,25705,buyer5492@example.com
+50365,1018,fr,EUR,Subscription,2025-05-05,,Delivered,56013.00,buyer9772@example.com
+50410,1004,Germany,EUR,,03-30-2025,04-03-2025,Pending,EUR 24.308,buyer5347@example.com
+50214,1001,NL,EUR,web,27/05/2025,2025-07-12,completed,27465,buyer1284@example.com
+50184,1007,GB,GBP,web,2025-03-04,,Completed,24407,buyer186@example.com
+50139,1004,DE,EUR,Subscription,2025-04-07,25/04/2025,Delivered,24682,buyer3979@example.com
+50027,1014,UK,GBP,,29 Apr 2025,06-09-2025,completed,50083,buyer7778@example.com
+50373,1002,UK,GBP,,2025-05-01,2025-06-15,Pending,43379,buyer7688@example.com
+50182,1015,fr,EUR,,01-19-2025,,Delivered,46721.00,buyer6940@example.com
+50069,1004,GB,GBP,Web,02 Apr 2025,2025-04-25,Pending,"£20,734",buyer8409@example.com
+50354,1010,Germany,EUR,Dealer,2025-06-10,21 Jul 2025,Cancelled,EUR 30.932,buyer8144@example.com
+50236,1003,Germany,EUR,web,20 Feb 2025,2025-04-17,Cancelled,44073,buyer209@example.com
+50163,1000,fr,EUR,Subscription,29/03/2025,11/04/2025,completed,49654,buyer7081@example.com
+50074,1011,fr,EUR,Subscription,20/06/2025,2025-08-08,Completed,30586,buyer9114@example.com
+50029,1007,Germany,EUR,,2025-06-27,26 Jul 2025,Delivered,28163.00,buyer97@example.com
+50389,1006,UK,GBP,,10 Jan 2025,19/02/2025,Completed,"£35,405",
+50083,1005,NL,EUR,,02-09-2025,23 Feb 2025,Cancelled,28668,buyer1119@example.com
+50385,1013,UK,GBP,Subscription,2025-06-07,07-25-2025,Pending,"£26,131",buyer15@example.com
+50008,1014,NL,EUR,web,2025-04-26,2025-05-20,Completed,55956,buyer1161@example.com
+50294,1011,UK,GBP,web,2025-05-08,06-28-2025,Cancelled,24182,buyer9099@example.com
+50375,1005,NL,EUR,Dealer,14/01/2025,2025-03-05,Delivered,27008,buyer4210@example.com
+50262,1010,GB,GBP,,2025-04-10,2025-05-24,Cancelled,25986.00,buyer4938@example.com
+50191,1003,UK,GBP,,16 May 2025,22/05/2025,Cancelled,"£36,445",buyer1392@example.com
+50397,1015,Germany,EUR,Web,2025-02-15,02-21-2025,Completed,48144,buyer2882@example.com
+50355,1007,DE,EUR,,2025-04-26,06-01-2025,Pending,27570.00,buyer2525@example.com
+50243,1002,fr,EUR,Subscription,2025-05-06,2025-05-26,Pending,49595,buyer8167@example.com
+50351,1011,NL,EUR,Web,2025-06-13,07-30-2025,Cancelled,EUR 27.872,buyer9322@example.com
+50321,1000,DE,EUR,Subscription,02-26-2025,04-19-2025,completed,52290,buyer6015@example.com
+50132,1005,DE,EUR,Subscription,14 May 2025,2025-07-01,Delivered,28763,buyer7576@example.com
+50223,1015,UK,GBP,Subscription,06-15-2025,07-02-2025,Pending,42956,buyer7647@example.com
+50289,1007,FR,EUR,Dealer,2025-06-29,2025-07-24,Delivered,28941,buyer7808@example.com
+50246,1000,DE,EUR,Subscription,2025-04-01,2025-04-22,Cancelled,49693.00,buyer3073@example.com
+50297,1017,NL,EUR,Dealer,03-07-2025,2025-04-01,Delivered,24341,buyer7323@example.com
+50185,1005,Germany,EUR,Web,2025-03-30,05-18-2025,Cancelled,EUR 27.539,buyer4457@example.com
+50381,1000,fr,EUR,Dealer,01-18-2025,,completed,EUR 46.919,
+50306,1003,FR,EUR,web,2025-04-27,08 Jun 2025,Cancelled,EUR 39.773,buyer7184@example.com
+50034,1003,NL,EUR,Dealer,2025-02-25,23/03/2025,Delivered,42062,
+50420,99999,fr,EUR,,28 Mar 2025,2025-05-13,Completed,24213.00,buyer3634@example.com
+50141,1017,UK,GBP,web,2025-05-03,2025-05-25,completed,20841,buyer3922@example.com
+50391,1001,FR,EUR,Web,06 Feb 2025,2025-01-27,Delivered,27827.00,buyer9684@example.com
+50061,1010,fr,EUR,,04-01-2025,20/04/2025,completed,32809,buyer4836@example.com
+50014,1018,NL,EUR,Web,2025-03-22,05-09-2025,Pending,53404,buyer9225@example.com
+50125,1000,NL,EUR,Web,2025-02-10,10 Apr 2025,completed,49402,buyer612@example.com
+50330,1012,NL,EUR,Web,19 Jun 2025,06-25-2025,Cancelled,24347,buyer5902@example.com
+50352,1010,GB,GBP,,02-14-2025,01 Apr 2025,Pending,29090,buyer6783@example.com
+50251,1003,fr,EUR,Web,2025-04-01,16 May 2025,Completed,42436,
+50091,1011,FR,EUR,Dealer,2025-05-27,17 Jun 2025,Pending,28817,buyer9086@example.com
+50213,1018,UK,GBP,,22/05/2025,,Pending,46571,buyer6469@example.com
+50147,1005,GB,GBP,Subscription,2025-01-25,2025-03-08,completed,23816,buyer3701@example.com
+50340,1007,NL,EUR,Dealer,05-18-2025,25 Jun 2025,Pending,28867.00,buyer4824@example.com
+50334,1013,UK,GBP,web,27/05/2025,07-07-2025,Cancelled,"£27,390",buyer8583@example.com
+50063,1002,UK,GBP,,2025-07-13,31 Aug 2025,Pending,-1,buyer4296@example.com
+50241,1014,GB,GBP,Dealer,2025-01-17,2025-03-06,Delivered,48944,buyer1561@example.com
+50325,1016,GB,GBP,Subscription,2025-02-26,10/03/2025,Pending,34688,buyer2137@example.com
+50327,1013,DE,EUR,,31/03/2025,2025-05-14,Pending,33411,buyer3826@example.com
+50153,1012,DE,EUR,web,03 Apr 2025,,Pending,23693,buyer8396@example.com
+50134,1013,UK,GBP,Web,2025-07-16,03 Sep 2025,completed,27118,buyer5698@example.com
+50078,1006,fr,EUR,Web,12/05/2025,,Pending,41099,buyer898@example.com
+50001,1008,FR,EUR,,24/06/2025,2025-07-07,Cancelled,56984,buyer917@example.com
+50405,1002,Germany,EUR,,06-26-2025,06-19-2025,Completed,50845,buyer5964@example.com
+50013,1005,GB,GBP,Web,2025-06-02,,Completed,25796,buyer9563@example.com
+50114,1015,NL,EUR,Web,04-30-2025,2025-05-04,Pending,52461,buyer7711@example.com
+50237,1002,GB,GBP,Dealer,05-27-2025,2025-06-04,Pending,39975,buyer2863@example.com
+50378,1001,UK,GBP,Subscription,2025-04-29,2025-06-18,Cancelled,23755,buyer7354@example.com
+50286,1008,fr,EUR,,2025-04-13,23/05/2025,Cancelled,55441.00,buyer4531@example.com
+50252,1004,GB,GBP,Web,06-21-2025,,completed,20999,buyer530@example.com
+50155,1007,NL,EUR,Subscription,2025-05-14,05-25-2025,Cancelled,28049.00,buyer4041@example.com
+50299,1010,FR,EUR,Subscription,16 Mar 2025,04-13-2025,completed,33914,buyer379@example.com
+50154,1013,GB,GBP,Subscription,07 Jan 2025,,Completed,-1,buyer9168@example.com
+50421,99999,fr,EUR,Web,2025-04-01,16 May 2025,Completed,42436,

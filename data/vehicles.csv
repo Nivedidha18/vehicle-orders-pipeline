@@ -1,0 +1,21 @@
+vehicle_id,make,model,segment,fuel_type,list_price_gbp
+1000,Peugeot,208,Hatchback,Petrol,42995
+1001,Peugeot,2008,Estate,Diesel,24995
+1002,Peugeot,308,SUV,Petrol,42995
+1003,  peugeot ,e-208,Hatchback,BEV,35995
+1004,Citroen,C3,Saloon,Petrol,21995
+1005,Citroen,C4,Hatchback,Diesel,24995
+1006,Citroen,e-C4,Hatchback,BEV,35995
+1007,Vauxhall,Corsa,SUV,,24995
+1008,Vauxhall,Mokka,Saloon,BEV,47995
+1009,Vauxhall,Astra,Hatchback,Diesel,42995
+1010,Jeep,Avenger,Saloon,BEV,27995
+1011,Jeep,Renegade,Estate,Diesel,24995
+1012,Ford,Puma,Estate,Petrol,21995
+1013,Ford,Focus,Saloon,Petrol,27995
+1014,Ford,Kuga,Estate,BEV,47995
+1015,Ford,Mustang Mach-E,Hatchback,BEV,42995
+1016,Volvo,EX30,Saloon,BEV,35995
+1017,Volvo,XC40,Hatchback,PHEV,21995
+1018,Volvo,C40,Estate,BEV,47995
+1010,Jeep,Avenger,Saloon,BEV,27995

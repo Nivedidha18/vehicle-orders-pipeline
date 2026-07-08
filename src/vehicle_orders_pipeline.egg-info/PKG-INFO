@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: vehicle-orders-pipeline
+Version: 0.1.0
+Summary: Small, production-minded analytics pipeline for vehicle orders.
+Requires-Python: >=3.10
