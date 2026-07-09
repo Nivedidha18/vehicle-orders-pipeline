@@ -1,7 +1,4 @@
-"""Shared fixtures: tiny, deliberately-messy synthetic frames whose correct
-answers are known by hand, so mart numbers can be asserted exactly."""
 from __future__ import annotations
-
 import pandas as pd
 import pytest
 
@@ -22,7 +19,6 @@ def raw_vehicles() -> pd.DataFrame:
 
 @pytest.fixture
 def raw_orders() -> pd.DataFrame:
-    # 8 source rows -> after cleaning: 6 orders (1 exact dup, 1 bad id dropped)
     return pd.DataFrame(
         {
             "order_id":       ["100", "101", "102", "103", "104", "104", "105", "bad"],
