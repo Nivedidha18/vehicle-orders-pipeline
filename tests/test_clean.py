@@ -1,9 +1,6 @@
-"""Unit tests for the pure cleaning functions."""
 from __future__ import annotations
-
 import pandas as pd
 import pytest
-
 from src.pipeline import clean
 
 
@@ -11,15 +8,15 @@ from src.pipeline import clean
     "raw,expected",
     [
         ("30000", 30000.0),
-        ("€30.000,00", 30000.0),        # EU thousands + decimal comma
-        ("31,500.50", 31500.50),        # UK thousands + decimal dot
-        ("EUR 30.169", 30169.0),        # EU dot = thousands (3 digits)
-        ("24380.00", 24380.0),          # dot = decimal (2 digits)
-        ("£27,345", 27345.0),           # comma = thousands
-        ("35,5", 35.5),                 # lone comma, decimal
-        ("1.234.567", 1234567.0),       # multiple dot thousands
-        ("1,234,567", 1234567.0),       # multiple comma thousands
-        ("-1", -1.0),                   # sentinel; excluded later as non-positive
+        ("€30.000,00", 30000.0),        
+        ("31,500.50", 31500.50),        
+        ("EUR 30.169", 30169.0),        
+        ("24380.00", 24380.0),          
+        ("£27,345", 27345.0),          
+        ("35,5", 35.5),                
+        ("1.234.567", 1234567.0),       
+        ("1,234,567", 1234567.0),      
+        ("-1", -1.0),                   
         ("", None),
         ("n/a", None),
         (None, None),
@@ -32,12 +29,12 @@ def test_parse_amount(raw, expected):
 @pytest.mark.parametrize(
     "raw,expected",
     [
-        ("2025-03-29", pd.Timestamp("2025-03-29")),   # ISO
-        ("04-30-2025", pd.Timestamp("2025-04-30")),   # dash = US MM-DD-YYYY
-        ("10-03-2024", pd.Timestamp("2024-10-03")),   # dash = US -> October 3
-        ("29/04/2025", pd.Timestamp("2025-04-29")),   # slash = EU DD/MM
-        ("07.06.2024", pd.Timestamp("2024-06-07")),   # dot = EU day-first
-        ("16 Aug 2025", pd.Timestamp("2025-08-16")),  # text
+        ("2025-03-29", pd.Timestamp("2025-03-29")),   
+        ("04-30-2025", pd.Timestamp("2025-04-30")),   
+        ("10-03-2024", pd.Timestamp("2024-10-03")),   
+        ("29/04/2025", pd.Timestamp("2025-04-29")),   
+        ("07.06.2024", pd.Timestamp("2024-06-07")),   
+        ("16 Aug 2025", pd.Timestamp("2025-08-16")),  
         ("", None),
         ("garbage", None),
     ],
