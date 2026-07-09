@@ -1,19 +1,11 @@
-"""End-to-end mart tests: build gold frames from fixtures, register them in an
-in-memory DuckDB, run questions.sql, assert the hand-computed answers.
-
-Skipped automatically if duckdb is not installed."""
 from __future__ import annotations
-
 from pathlib import Path
-
 import pytest
-
 from src.pipeline import model
 
 duckdb = pytest.importorskip("duckdb")
 
 SQL = (Path(__file__).resolve().parents[1] / "src" / "pipeline" / "questions.sql").read_text()
-
 
 @pytest.fixture
 def con(raw_vehicles, raw_orders):
@@ -38,7 +30,6 @@ def test_q1_sales_by_market_month(con):
     assert got[("France", "2024-03")] == 38250.00
     assert got[("Germany", "2024-01")] == 25500.00
     assert got[("United Kingdom", "2024-02")] == 20000.00
-    # cancelled / pending orders excluded
     assert ("Germany", "2024-01") in got and len(df) == 4
 
 
@@ -46,7 +37,6 @@ def test_q2_top_models(con):
     df = con.execute("SELECT * FROM mart_top_models").df()
     top = df.iloc[0]
     assert (top["make"], top["model"], top["units_sold"]) == ("BMW", "I4", 2)
-    # orphan vehicle_id (99) never appears
     assert "99" not in df["model"].astype(str).tolist()
 
 
