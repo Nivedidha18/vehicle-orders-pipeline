@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project builds a small analytics pipeline for vehicle order data.
+This project builds an analytics pipeline for vehicle order data.
 The pipeline takes two raw CSV files:
 
 - `orders.csv`
@@ -10,10 +10,6 @@ The pipeline takes two raw CSV files:
 
 and transforms them into cleaned analytical tables that can be queried for reporting.
 
-The main tools used are:
-
-- **Python + pandas** for cleaning and validation
-- **DuckDB + SQL** for modelling and analytical queries
 
 The pipeline runs locally and creates a small warehouse containing cleaned data, reporting marts, and a quality report showing the issues found during processing.
 
